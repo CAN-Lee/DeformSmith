@@ -17,3 +17,17 @@ DeformSmith generates deformable assets from text or a single image, connecting 
 ## Code Release
 
 Code and reproducibility instructions will be released here. Stay tuned for updates.
+
+## Citation
+
+```bibtex
+@misc{li2026deformsmith,
+  title = {{DeformSmith}: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation},
+  author = {Can Li and Jie Gu and Zishun Deng and Jingmin Chen and Lei Sun},
+  year = {2026},
+  eprint = {2609.18620},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.RO},
+  url = {https://arxiv.org/abs/2609.18620}
+}
+```
